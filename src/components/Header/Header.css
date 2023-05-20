@@ -1,0 +1,22 @@
+nav {
+    height: 13vh;
+    background-color: #000;
+    padding: 3.5vh;
+    width: 100%;
+}
+@media (max-width:700px) {
+    nav {
+        height: 60px;
+        padding: 20px;
+    }
+}
+
+h1 {
+    color: #fff;
+}
+
+@media (max-width:700px) {
+    h1 {
+        font-size: 18px;
+    }
+}
